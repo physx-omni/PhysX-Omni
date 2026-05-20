@@ -186,7 +186,7 @@ bash benchmark/scripts/run_denominator_validation.sh
 
 ## Shared Step: Condition Images
 
-Condition images are shared by DQS, APS, KPS, and MPS.
+Condition images are shared by DQS, APS, KPS, and MPS. It can be downloaded from [PhysX-Bench](https://huggingface.co/datasets/PhysX-Omni/PhysX-Bench)
 
 Input:
 
